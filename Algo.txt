@@ -4,3 +4,4 @@ step 3: choose delivery or pick up
 step 4: pay for pizza 
 step 5: enjoy food 
 addding changes from feature branch 
+made some changes bugFix 
